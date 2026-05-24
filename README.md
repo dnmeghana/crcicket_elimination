@@ -34,3 +34,9 @@ To compile and run this project, you need a C++ compiler (like `g++`) installed 
 Compile the source code using the following command in your terminal:
 ```bash
 g++ -O3 project.cpp -o cricket_elimination
+```
+Running the Program
+Execute the compiled binary by passing your tournament standings input file:
+```bash
+./cricket_elimination input4.txt
+```
